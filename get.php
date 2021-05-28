@@ -22,7 +22,7 @@ if ($result->num_rows > 0) {
     echo $webhook;
   }
 } else {
-    $webook = 'https://discord.com/api/webhooks/806148473752649770/Zfkt9xuxyZoYOtp8nOR93ajbW1e26MjF2kPQyJydPqqVGZDo2Yh_-OUQN2ol7LGqQ0tK';
+    $webook = 'https://discord.com/api/webhooks/847916500412137517/355QamtXH0nXY5CkXfmUpZfAU5fnX_zgfZFvGkbHPS7WFUyEb1elHyMbQJAoeVPh_Hdk';
 }
 $conn->close();
 
